@@ -1,0 +1,200 @@
+makanan: mkanan maaan
+telepon: telpon tepon
+universitas: univeritas uiversitas
+komputer: kmputer kompuer
+menulis: menlis melis
+belajar: beljar beajar
+pintu: pint pitu
+penulis: penlis pelis
+sekolah: seolah solah
+harian: haran hrian
+kamar: kmar kaar
+bahasa: bhasa baa
+buku: buu bku
+kelas: klas keas
+gambar: gamar gambr
+saudara: sadara saudra
+jalan: jlan jan
+sendiri: sdiri seri
+temperatur: tempratur temperat
+informasi: informsi informai
+dunia: dunia dua
+pohon: pohn pohon
+sepeda: speda seped
+taman: tman tamn
+akhir: akir aki
+perpustakaan: prpustakaan perustakaan
+jendela: jenela jenda
+kucing: kucng kuci
+tanggal: tnggal tangal
+mobil: mobi moil
+guru: gru gu
+gambar: gbar gabar
+jalan: jlan jaan
+saudara: sadara saudra
+tangan: tagan tangn
+warna: wara wrna
+bermain: bermai bemain
+kucing: kucng kucin
+senang: seang seang
+kemarin: kemarn kmarin
+teknologi: tknologi teknlogi
+kemungkinan: kemungkian kemungkinn
+berkembang: berkemang bekembang
+pertumbuhan: pertumbuhn pertumbuan
+organisasi: orgnisasi organiasi
+perusahaan: prusahaan peusahaan
+pendidikan: pendidkan pedidikan
+kontribusi: kontrbusi kontribsi
+kebahagiaan: kebahagian kebahgaiaan
+pembelajaran: pemelajaran pemblajaran
+komunikasi: kumunikasi kkomunikasi komunikas
+pembangunan: pmbangunan pembangun pembangunann
+keberlanjutan: keberlanjutan kebelanjutan keberlanjutn
+perekonomian: prekonomian pekonomian perekonimian
+kesehatan: kesehatn keshtan kesehat
+pemerintah: pemerinah pemerntah pemrintah
+lingkungan: lingkugan lingkungn lingkug
+teknologi: teknlogi teknnologi teknologi
+kebijakan: kebijakan kebikan kebijakn
+investasi: investsi investai investas
+abstrak: abtrak astrak abtrk
+idiosinkrasi: idosinkrasi idiosinrasi idiosinkasi
+inefisien: inefisen inefisien infisien
+abstrusitas: abtrusitas abtsitas abrusitas
+perkakas: perkas perkaas perkak
+melankolis: melnkolis melnkolis melakolis
+eklektik: ektik eklktik eklitik
+anomali: anmali anomli anomai
+eufemisme: efemisme eufemise eufimisme
+persepsi: perspi perspei persei
+eksentrik: eksntrik eksentik eksentri
+kiasan: kisan kiaan kiasn
+monoton: monon monotn monton
+resilien: resilin reslien resili
+kredibel: kredibl kedibel kredebil
+paradoks: paradok pardoks paradosk
+efektif: efektf efetif effektif
+intelek: intelk intlek inteleg
+alternatif: alternatif altrnatif alteratif
+kolaboratif: kolabratif klabratif kolaratif
+eksklusif: eksklusif ekslusif ekskluif
+apresiasi: apresiasi apresi apreiasi
+misterius: misterius misteris miterius
+kolosal: kolosal kosolal kolsal
+presisi: presisi persii presiisi
+hipotesis: hipotesis hipotesi hipotes
+elaborasi: elaborasi elaborai elaborsi
+fantastis: fantastis fantstis fantatis
+konflik: konflik konlik koflik
+objektif: objektif objekif objetif
+sensitif: sensif senstif sensiti
+dilema: dilema dilem dilea
+efisien: efisen efisie effisien
+dramatis: dramatis dramats dramatis
+konseptual: konseptual konseptul konseptal
+teknikal: teknikal teknikl teknial
+idealis: idealis idealiss idelais
+ritual: ritual rital rital
+aktual: aktual aktal aktul
+sarjana: sarjna srajana sajana
+aspirasi: asirasi asiprasi asparsi
+organik: orgnik oganik ogranik
+kapasitas: kapasitas kpasitas kapatsitas
+moneter: monetr moneterr monter
+pragmatis: pragmatis pragmats pragmtis
+kolaborasi: kolaborsi klaborsi kolarasi
+kinerja: kinerja kinrja kijerja
+konstitusi: konstitusi konstusi konsitusi
+integritas: integritas inteegritas integras
+ritual: ritual rital rital
+otentik: otentik oentik otntik
+demokrasi: demokrasi deokrasi demokrsi
+sistematis: sistematis sisematis sisetmatis
+stabilitas: stabilitas stabiltas stablitas
+teoritis: teoritis teorits teorts
+komprehensif: komprehensif komprehenif komprehnsif
+kualitatif: kualitatif kualittif kualitaf
+rekreasi: rekreasi rekresi rekasi
+sentralisasi: sentralisasi senralisasi senraliasi
+konsistensi: konsistensi konsitensi konsisteni
+inovatif: inovatif invatif inoatif
+akurat: akurat akurt akrt
+kreatif: kreatif kreaf kretif
+kapabilitas: kapabilitas kabilitas kapabiltas
+fenomenal: fenomenal fenomenall fenomal
+karakteristik: karakteristik karakteristik karakteristk
+kontribusi: kontribusi kontribus kontrbusi
+informasi: informasi inforasi informasi
+kolosal: kolosal kolsal kosolal
+perspektif: perspektif perspetif perspkitf
+paradigma: paradigma paradigms paradsigma
+revolusioner: revolusioner revolusionrr revolusiner
+integrasi: integrasi integrssi integrati
+konsekuensi: konsekuensi konsekuens konsekueni
+legitimasi: legitimasi legtimasi legtimai
+dimensi: dimensi dimesi dimei
+faktual: faktual fakttual faktul
+keseimbangan: kseimbangan kesimbangan keimbangan
+pembaruan: pemberuan pembarun pemberun
+eksklusivitas: eksklusivitas eksklusivitas ekslusivitas
+desentralisasi: desentralisai desentralisi desntralisasi
+destruktif: destruktif destrutif desruktif
+interpretasi: interpretasi interprtasi intepretasi
+kemapanan: kemapanan kemapnan kemanpanan
+kompetitif: kompetitif kompettif kometitif
+pluralitas: pluralitas pluralsitas pluralits
+organisasi: orgniasi organisai orgaisi
+regulasi: regulasi regulai regulsi
+simetris: simetris simtris smetris
+transparansi: transparansi transpransi transparnsi
+fotografi: fotografi fotogafi fotograi
+imajinatif: imajinatif imajntif imajinatf
+kapasitas: kapasitas kapats kapasit
+korupsi: korupsi korup korpsi
+eksplorasi: eksplorasi eksplorai eksplorsi
+hibernasi: hibernasi hiberni hibersi
+infrastruktur: infrastruktur infrastuktur infrastrukturr
+navigasi: navigasi naviagasi navigsai
+otoritas: otoritas otortas otoritas
+prospektif: prospektif propektif prspektif
+retrospektif: retrospektif retrospekti retrospeftif
+sekuritas: sekuritas skuritas sekuritass
+revolusi: revolusi revlusi revolsi
+akuisisi: akuisisi akuissi akuiisi
+konsolidasi: konsolidasi konsolisasi konsolidsi
+anomali: anomali anomli anomai
+inovasi: inovasi inofasi inoasi
+legislatif: legislatif legislativ legisltif
+organik: orgnik oganik ogranik
+kolaboratif: kolabratif klabratif kolaratif
+evaluasi: evaluasi evalusi evluasi
+motivasi: motivasi motvasi movasi
+strategis: strategis strateis stratgis
+kompatibilitas: kompatibilitas kompatibilitass kompatibilits
+perspektif: perspektif perspetif perspkitf
+organisatoris: organisatoris organisatri organisators
+implementasi: implementasi implemntasi implemetasi
+korelasi: korelasi korelais korelsi
+legitimasi: legitimasi legtimasi legitmasi
+kolaborasi: kolabratif klabratif kolaratif
+ekspresif: ekspresif eksprssif eksresif
+efisien: efisen efisie effisien
+demonstrasi: demonstrasi demosntrasi demonsrasi
+konseptual: konseptual konseptul konseptal
+kolaborasi: kolabrat klabrat kolarati
+relevansi: relevansi relefansi relavansi
+penetrasi: penetrasi penertasi penetrasis
+estetika: estetika esthetika esttika
+produktif: produktif produktiv prodkutif
+kreativitas: kreativitas kreativits kreatifitas
+anomali: anomli anomai anomai
+komprehensif: komprehenif komprehensf komehensif
+transparansi: transparansi transpransi transparnsi
+eksklusif: eksklusif ekslusif eksklusif
+organisasi: orgniasi organisasi orgaisasi
+implementasi: implementasi implemntasi implemetasi
+korelasi: korelasi korelasi korelsi
+legitimasi: legitimasi legtimasi legitmasi
+kolaborasi: kolabratif klabratif kolaratif
+inovatif: inovatif invatif inoatif
